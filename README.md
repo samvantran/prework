@@ -1,6 +1,6 @@
 Sam's Stamps App
 ---
 
-# About
+# About Sam
 
 Stuff about Sam's stamps here...
